@@ -144,7 +144,7 @@ footer {
 
 #experience,
 #education {
-  background: #E9724C;
+  background: #B084CC;
 }
 
 .background-image {
@@ -173,14 +173,19 @@ footer {
 }
 
 .bg-white {
-  background: #ffffff;
+  background: #208AAE;
 }
 
 .bg-dark {
   background: #161616;
 }
 
-
+.click-me {
+  background-color: #FAF9F6;
+  color: #161616;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
 
 /*---------------------------------------
     General               
