@@ -184,10 +184,20 @@ footer {
 }
 
 .click-me {
-  background-color: #FAF9F6;
+  /* background-color: #FAF9F6;
   color: #161616;
   border-radius: 4px;
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); */
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #ffffff;
+  border-radius: 0px;
+  box-shadow: none;
+  color: #161616;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  transition: all 0.4s ease-in-out;
 }
 
 /*---------------------------------------
@@ -199,14 +209,14 @@ html{
 }
 
 a {
-  color: #208AAE;
+  color: #97D8C4;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  color: #161616;
+  color: #ffffff;
   outline: none;
 }
 
