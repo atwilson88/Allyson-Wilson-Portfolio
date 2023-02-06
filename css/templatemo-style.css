@@ -92,7 +92,7 @@ p {
 }
 
 .section-btn:hover {
-  background: #E3AE57;
+  background: #161616;
   border-color: transparent;
   color: #ffffff;
 }
@@ -164,12 +164,15 @@ footer {
   color: #ffffff;
 }
 
+.special-color {
+  color: #161616;
+}
 .color-yellow {
-  color: #E3AE57;
+  color: #97D8C4;
 }
 
 .bg-yellow {
-  background: #E3AE57;
+  background: #97D8C4;
 }
 
 .bg-white {
@@ -196,7 +199,7 @@ html{
 }
 
 a {
-  color: #E3AE57;
+  color: #208AAE;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -302,7 +305,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #E3AE57;
+    color: #208AAE;
 }
 
 .custom-navbar .navbar-nav > li > a:hover,
@@ -312,7 +315,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li.active > a {
     background-color: transparent;
-    color: #E3AE57;
+    color: #208AAE;
 }
 
 .custom-navbar .navbar-toggle {
@@ -325,7 +328,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
-    background: #E3AE57;
+    background: #208AAE;
     border-color: transparent;
 }
 
@@ -421,7 +424,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #service {
-  background: #E9724C;
+  background: #B084CC;
 }
 
 #service p {
@@ -467,7 +470,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #education {
-  background: #E3AE57;
+  background: #208AAE;
 }
 
 #education .education-img {
@@ -528,7 +531,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #contact {
-  background: #E9724C;
+  background: #97D8C4;
 }
 
 #contact .contact-form,
