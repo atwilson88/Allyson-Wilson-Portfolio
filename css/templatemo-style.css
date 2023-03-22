@@ -315,7 +315,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #208AAE;
+    color: #208AAE;;
 }
 
 .custom-navbar .navbar-nav > li > a:hover,
